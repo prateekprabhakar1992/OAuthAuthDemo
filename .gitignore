@@ -1,0 +1,15 @@
+# .NET build directories
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Installer files
+*.cab
+
+# JetBrains Rider
